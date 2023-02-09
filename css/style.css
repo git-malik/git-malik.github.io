@@ -1,0 +1,9 @@
+html,body{
+    background-color: #f7f7f7;
+}
+
+a, .lightgrey{
+    color: #9c9c9c;
+    text-decoration: none;
+    font-weight: bold;
+}
