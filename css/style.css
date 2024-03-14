@@ -8,6 +8,16 @@ a, .lightgrey{
     font-weight: bold;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 2%;
+    width: 100%;
+    text-align: right;
+}
+.footer span{
+    margin-left: 10px;
+}
 
 #htb{
     color: #9fef00;
